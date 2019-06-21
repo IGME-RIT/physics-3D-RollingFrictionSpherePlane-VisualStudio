@@ -1,0 +1,68 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(175): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(176): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(177): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(183): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(184): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(185): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(191): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(192): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(193): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(199): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(200): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(201): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(298): warning C4305: '=': truncation from 'double' to 'float'
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(718): warning C4101: 'temp': unreferenced local variable
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(887): warning C4101: 'i': unreferenced local variable
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(1279): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(1369): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfrictionsphereplane-mastervs2019\3d_rollingfrictionsphereplane\main.cpp(559): warning C4715: 'overlap': not all control paths return a value
+  3D_RollingFrictionSpherePlane.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level11\physics-3D-RollingFrictionSpherePlane-masterVS2019\3D_RollingFrictionSpherePlane\Debug\3D_RollingFrictionSpherePlane.exe
